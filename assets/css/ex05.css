@@ -1,0 +1,23 @@
+.bg-primary{
+    background-color: #B5D8EB !important;
+}
+
+.bg-success{
+    background-color: #93DFB8 !important;
+}
+
+.bg-warning{
+    background-color: #FFC8BA !important;
+}
+
+.bg-danger{
+    background-color: #FFBDD8 !important;
+}
+
+.bg-secondary{
+    background-color: #EEEEEE !important;
+}
+
+.bloc1{
+    height: 10rem;
+}
